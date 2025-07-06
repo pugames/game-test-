@@ -1,2 +1,2 @@
-# game-test-
-This will be the start of a test game of sorts
+# About
+This project is a Trivia game built with several web technologies. It's designed to be a fun experience for both solo players and friends playing together.
